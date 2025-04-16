@@ -23,11 +23,16 @@ And now working on building packages for riscv.
 ---- Apr 16 2025
 
 ## Member
-
 * [ChestNutICE](https://github.com/ChestNutICE): Coding
-* [MexiDu](https://github.com/mexidus): Testcase designer
+* [Mizi](https://github.com/Mizi-mizi): Testcase designer
 * [sychen-o](https://github.com/sychen-o): Testing
 
 ## Issue
 
-If you have any questions or needs to contact us, please email <sudoavocado@gmail.com>.
+If you meet any problem with running this program,
+
+first you can try to `chmod +x /usr/bin/fakehttp`,
+
+then try to run it again.
+
+Any further questions, please email <sudoavocado@gmail.com>
