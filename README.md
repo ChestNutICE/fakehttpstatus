@@ -34,13 +34,13 @@ Only occurs on riscv version. Might be resolved really quick!
 
 Stay tuned...
 
-(several hrs later) Fixed rn! no need to import!
+(several hrs later) Fixed rn! No need to import!
 
 ---- Apr 18 2025
 
 ## Member
 * [ChestNutICE](https://github.com/ChestNutICE): Coding
-* [Mizi](https://github.com/Mizi-mizi): Testcase designer
+* [Mizi](https://github.com/Mizi-mizi): Coding
 * [sychen-o](https://github.com/sychen-o): Testing
 
 ## Issue
