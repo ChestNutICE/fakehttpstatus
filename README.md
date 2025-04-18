@@ -6,9 +6,8 @@ Only for study, not commercial stuff. Fully open source.
 
 A simple tiny solution for collecting and displaying http status.
 
-Based on python, probably will be running on riscv machines. @~@
+Based on python, designed for running on riscv machines. @~@
 
-This is a not-so-good copy of this project: [httpstat](https://github.com/reorx/httpstat)
 
 ## Progress
 
@@ -50,5 +49,7 @@ If you meet any problem with running this program,
 first you can try to `chmod +x /usr/bin/fakehttp`,
 
 then try to run it again.
+
+If it is related to [SSL: CERTIFICATE_VERIFY_FAILED], try to adjust the date on your machine
 
 Any further questions, please email <sudoavocado@gmail.com>
