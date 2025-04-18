@@ -25,7 +25,7 @@ def main():
         url = user_input()
         print("\n*******CONNECTING*******\n")
         #customize connection according to user input
-        conn = http.client.HTTPSConnection(str(url),443,context= context)
+        conn = http.client.HTTPSConnection(str(url),443,context = context)
         #get start time
         start = time.time()
         #send request to inputted url and get response
