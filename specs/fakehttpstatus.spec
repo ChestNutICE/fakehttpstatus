@@ -2,7 +2,6 @@ Name:       fakehttpstatus
 Version:    1.0
 Release:    2504
 Summary:    fakehttpstatus rpm package
-BuildRequires: python3-devel
 Requires:   python3-requests
 License:    MIT
 
