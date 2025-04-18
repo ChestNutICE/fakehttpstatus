@@ -28,6 +28,11 @@ Next stage we plan to run it on a riscv board(display messages that user put in 
 
 ---- Apr 17 2025
 
+Problem associated with python package <requests> identified.
+Might be resolved really quick!
+
+---- Apr 18 2025
+
 ## Member
 * [ChestNutICE](https://github.com/ChestNutICE): Coding
 * [Mizi](https://github.com/Mizi-mizi): Testcase designer
